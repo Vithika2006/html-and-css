@@ -1,0 +1,20 @@
+<html>
+      <head>
+            <title>web development</title>
+      </head>
+      <body>
+            <!--heading tag(1-6)-->
+            <h1>this is heading 1</h1>
+            <h2>this is heading 2</h2>
+            <h3>this is heading 1</h3>
+            <h4>this is heading 1</h4>
+            <h5>this is heading 1</h5>
+            <h6>this is heading 1</h6>
+             <p>
+                hi my name is vithika 
+                 <br></br>
+                welcome to my world
+             </p>
+
+      </body>
+</html>          

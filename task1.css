@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>TASK</title>
+</head>
+<body>
+<center>
+<div style="width: 1000px;height:400px;background:white;"></div>
+<!--1st div -->
+<div style="width: 1000px;height:60px;background:black;"></div>
+<!--1st div -->
+<div style="width: 100px;height:60px;float: left;">log</div>
+<!--2st div -->
+<div style="width: 100px;height:60px;float: right;">home</div>
+<!-- 3rd div-->
+<div style="width: 100px;height:60px;float: right;">about</div>
+ <!-- 4th div-->
+<div style="width: 100px;height:60px;float: right;">contact</div>
+</center>
+</body>
+</html>

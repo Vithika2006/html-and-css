@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <title>Style in HMTL</title>
+</head>
+<body>
+     <!--attribute-->
+     <h2 style="clour:blue;font size:
+     40px; text decorator:underline;border:2px dashed green"> This style in HTML</h2>
+     
